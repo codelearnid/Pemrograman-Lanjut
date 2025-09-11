@@ -2,6 +2,6 @@
 Dosen pengampu : Arif Wicaksono Septyanto, S.Kom., M.Kom
 
 Refrensi : <br>
-[ S. Bagui, R. Earp, 2023] - Database Design Using Entity-Relationship Diagrams <br>
-[ S. Smirnova, A. Tezuysal, 2022] - MySQL Cookbook: Solutions for Database Developers and Administrators <br>
-[Simon. R, G. Ciolli, 2022] - PostgreSQL 14 Administration Cookbook <br>
+[Gamma Erich; Helm  Richard; Johnson Ralph E; Vlissides John, 2016] - Design patterns: elements of reusable object-oriented software <br>
+[Peter MacIntyre; Kevin Tatroe, 2016] - Programming PHP <br>
+
