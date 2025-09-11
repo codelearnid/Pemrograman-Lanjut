@@ -1314,11 +1314,9 @@ Property 'stok' tidak tersedia.
 * Berguna untuk **enkapsulasi**, **validasi otomatis**, dan **menangani property yang tidak ada**.
 * Bisa dipakai sebagai alternatif manual **getter dan setter** dalam OOP PHP.
 
-Sip Pak Arif 👍, berikut saya buatkan **latihan soal praktikum** sederhana untuk mahasiswa, khusus penggunaan **magic method `__get()` dan `__set()`**:
-
 ---
 
-# 📝 Latihan Praktikum – Magic Method `__get()` dan `__set()`
+## Latihan Praktikum – Magic Method `__get()` dan `__set()`
 
 ### Tujuan
 
@@ -1959,16 +1957,8 @@ SELECT nim, nama FROM mahasiswa WHERE nim = '13012012'
 * Kuncinya adalah menambahkan `return $this;` pada setiap method.
 * Teknik ini sangat berguna untuk membuat kode lebih ringkas, jelas, dan mirip dengan penulisan query database atau konfigurasi dalam framework.
 
-Baik Pak Arif, saya akan buatkan **versi parafrase** dari materi tersebut sesuai permintaan:
 
-1. Semua informasi tetap dipertahankan.
-2. Bahasa dibuat lebih sederhana agar mudah dipahami.
-3. Tidak ada bagian yang hilang atau berkurang.
-4. Struktur tetap runut sesuai alurnya.
-
----
-
-# **3.7. Type Hinting**
+# 3.7. Type Hinting
 
 **Type hinting** adalah fitur di PHP yang berfungsi untuk membatasi tipe data dari parameter yang boleh diterima oleh sebuah *function* atau *method*.
 
@@ -2262,15 +2252,6 @@ Jika tidak sesuai, PHP akan memunculkan **TypeError**.
 
 📌 **Kesimpulan:**
 Type hinting membantu memastikan parameter function/method memiliki tipe data yang sesuai (array, object, class parent, interface, maupun scalar). Fitur ini meningkatkan keamanan kode dan meminimalisir error yang sulit dilacak.
-
-
-Baik Pak Arif 🙌. Saya pahami arahan Bapak:
-
-1. Semua informasi dari materi tetap dipertahankan (tidak ada yang hilang/berkurang).
-2. Bahasa dibuat lebih sederhana, agar mahasiswa lebih mudah paham.
-3. Struktur penjelasan tetap runut (teori → kode → hasil → analisis).
-
-Berikut versi **parafrase** materi **3.8 Late Static Binding**:
 
 ---
 
