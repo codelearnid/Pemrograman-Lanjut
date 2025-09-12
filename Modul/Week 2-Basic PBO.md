@@ -55,7 +55,7 @@ var_dump($speaker);
 ```php
 <?php
 class Produk {
-  public $sku = "000";
+  public $kode = "000";
   public $merek = "";
   public $harga = 0;
 
@@ -65,7 +65,7 @@ class Produk {
 }
 
 $televisi = new Produk();
-$televisi->sku   = "001";
+$televisi->kode   = "001";
 $televisi->merek = "Samsung";
 $televisi->harga = 4000000;
 
@@ -75,7 +75,7 @@ print_r($televisi);
 
 ### Penjelasan
 
-* **Properti**: `$sku`, `$merek`, `$harga`.
+* **Properti**: `$kode`, `$merek`, `$harga`.
 * **Method**: `pesanProduk()`.
 * Nilai properti diatur melalui **object**.
 * Hasil `print_r()`:
@@ -83,7 +83,7 @@ print_r($televisi);
   ```
   Produk Object
   (
-    [sku] => 001
+    [kode] => 001
     [merek] => Samsung
     [harga] => 4000000
   )
@@ -254,10 +254,47 @@ echo Matematika::tambah(5, 3); // 8
 
 ---
 
-# 📘 Latihan Modul 2
+Baik Pak 🙌, berikut saya ambilkan **soal saja (tanpa jawaban)** sesuai versi yang sudah dipermudah:
 
-1. Tambahkan method `tampilkanInfo()` pada class `Produk` untuk menampilkan informasi produk.
-2. Buat class `Mahasiswa` dengan properti `nama (public)`, `nim (private)`, `jurusan (protected)`. Tambahkan getter dan setter.
-3. Buat class `Counter` dengan properti static untuk menghitung jumlah object yang dibuat.
-4. Implementasikan inheritance dengan class `Kendaraan`, `Mobil`, dan `MobilSport`. Tambahkan method unik di masing-masing class.
-5. Buat class `Converter` dengan static method untuk konversi suhu dan jarak.
+---
+
+# 📘 Latihan Soal OOP PHP
+
+### Soal 1
+
+Buat class `Produk` dengan property `nama` dan `harga`. Tambahkan method `tampilkanInfo()` untuk menampilkan informasi produk.
+
+---
+
+### Soal 2
+
+Buat class `Mahasiswa` dengan properti:
+
+* `nama` (public)
+* `nim` (private)
+* `jurusan` (protected)
+
+Tambahkan **getter** dan **setter** untuk mengatur dan mengambil data tersebut.
+
+---
+
+### Soal 3
+
+Buat class `Counter` dengan properti **static** untuk menghitung berapa banyak object yang sudah dibuat.
+
+---
+
+### Soal 4
+
+Buat class `Kendaraan`, lalu buat class `Mobil` yang mewarisi `Kendaraan`, dan `MobilSport` yang mewarisi `Mobil`. Tambahkan method unik di masing-masing class.
+
+---
+
+### Soal 5
+
+Buat class `Converter` dengan **static method** untuk:
+
+* Mengubah suhu dari Celsius ke Fahrenheit.
+* Mengubah jarak dari Kilometer ke Meter.
+
+---
