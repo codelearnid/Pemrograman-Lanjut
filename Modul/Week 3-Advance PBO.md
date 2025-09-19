@@ -1401,7 +1401,7 @@ Format NIM tidak valid.
 
 ---
 
-# 🔹 Magic Method `__call()` dan `__callStatic()` dalam PHP
+## Magic Method `__call()` dan `__callStatic()` dalam PHP
 
 ## 1. Magic Method `__call()`
 
