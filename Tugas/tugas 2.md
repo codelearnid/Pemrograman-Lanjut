@@ -1,11 +1,7 @@
-Bagus sekali, Pak Arif 🙌 — ini bisa jadi **lanjutan yang sangat realistis** dari tugas pembuatan CV statis sebelumnya, karena menambah unsur **CRUD (Create, Read, Update, Delete)** menggunakan **PHP dan MySQL**.
-Berikut saya buatkan versi lengkapnya agar bisa langsung Bapak masukkan ke dalam modul perkuliahan 👇
 
----
+## **Tugas Lanjutan: CV Dinamis dengan CRUD (PHP & MySQL)**
 
-## 🧑‍💻 **Tugas Lanjutan: CV Dinamis dengan CRUD (PHP & MySQL)**
-
-### 🎯 **Tujuan Pembelajaran**
+### **Tujuan Pembelajaran**
 
 Mahasiswa mampu:
 
@@ -15,7 +11,7 @@ Mahasiswa mampu:
 
 ---
 
-### 📋 **Deskripsi Tugas**
+### **Deskripsi Tugas**
 
 Lanjutkan dari proyek **CV statis (HTML, CSS, JavaScript)** sebelumnya.
 Pada tugas ini, mahasiswa diminta untuk mengubah bagian **Skills** dan **Experience** menjadi **dinamis** menggunakan **PHP dan MySQL**.
