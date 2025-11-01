@@ -1,7 +1,6 @@
-Berikut contoh **tugas pemrograman web** yang bisa Bapak Arif berikan kepada mahasiswa 👇
-## 🧑‍💻 **Tugas: Membuat Tampilan CV Pribadi Menggunakan Bahasa Pemrograman Web**
+## **Tugas: Membuat Tampilan CV Pribadi Menggunakan Bahasa Pemrograman Web**
 
-### 🎯 **Tujuan Pembelajaran**
+### **Tujuan Pembelajaran**
 
 Mahasiswa mampu:
 
@@ -11,7 +10,7 @@ Mahasiswa mampu:
 
 ---
 
-### 📋 **Deskripsi Tugas**
+### **Deskripsi Tugas**
 
 Buatlah **halaman web CV pribadi** (Curriculum Vitae) menggunakan **HTML, CSS, dan JavaScript**.
 Tampilan harus menampilkan informasi dasar tentang diri Anda secara menarik dan mudah dibaca.
