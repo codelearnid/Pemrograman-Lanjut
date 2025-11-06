@@ -75,7 +75,7 @@ $db->insert('produk', [
     'stok' => 15,
     'harga' => 750000
 ]);
-
+```
 ---
 
 ### 🧩 **Tugas Mahasiswa**
