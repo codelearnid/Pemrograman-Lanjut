@@ -1,7 +1,3 @@
-Baik Pak Arif 🙌 berikut saya buatkan **materi sederhana tentang PDO (PHP Data Object)**, disusun secara **ringkas dan mudah dipahami mahasiswa**, dengan contoh kode yang bisa langsung dijalankan.
-
----
-
 # 🧩 Materi Dasar PDO (PHP Data Object)
 
 ## 1. Pengertian PDO
